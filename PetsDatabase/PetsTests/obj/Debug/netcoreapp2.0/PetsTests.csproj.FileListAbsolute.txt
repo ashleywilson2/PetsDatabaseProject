@@ -1,0 +1,17 @@
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\PetsTests.deps.json
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\PetsTests.runtimeconfig.json
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\PetsTests.runtimeconfig.dev.json
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\PetsTests.dll
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\PetsTests.pdb
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\PetsDatabase.dll
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\bin\Debug\netcoreapp2.0\PetsDatabase.pdb
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\obj\Debug\netcoreapp2.0\PetsTests.csprojAssemblyReference.cache
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\obj\Debug\netcoreapp2.0\PetsTests.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\obj\Debug\netcoreapp2.0\PetsTests.AssemblyInfoInputs.cache
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\obj\Debug\netcoreapp2.0\PetsTests.AssemblyInfo.cs
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\obj\Debug\netcoreapp2.0\PetsTests.csproj.CopyComplete
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\obj\Debug\netcoreapp2.0\PetsTests.dll
+C:\Projects\Empower\Day 22\PetsDatabase\PetsTests\obj\Debug\netcoreapp2.0\PetsTests.pdb

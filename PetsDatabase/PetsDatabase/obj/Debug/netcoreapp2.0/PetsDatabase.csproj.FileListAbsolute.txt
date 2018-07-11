@@ -1,0 +1,9 @@
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\bin\Debug\netcoreapp2.0\PetsDatabase.deps.json
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\bin\Debug\netcoreapp2.0\PetsDatabase.dll
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\obj\Debug\netcoreapp2.0\PetsDatabase.csprojAssemblyReference.cache
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\obj\Debug\netcoreapp2.0\PetsDatabase.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\obj\Debug\netcoreapp2.0\PetsDatabase.AssemblyInfoInputs.cache
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\obj\Debug\netcoreapp2.0\PetsDatabase.AssemblyInfo.cs
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\bin\Debug\netcoreapp2.0\PetsDatabase.pdb
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\obj\Debug\netcoreapp2.0\PetsDatabase.dll
+C:\Projects\Empower\Day 22\PetsDatabase\PetsDatabase\obj\Debug\netcoreapp2.0\PetsDatabase.pdb
