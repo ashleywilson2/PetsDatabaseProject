@@ -13,11 +13,12 @@ function database(){
         contentType: "application/json",
         data : dataString,
         type: "POST"
-  });
+      });
+    });
 
   $('#showAllPets').click(function(){
     $.get( "http://localhost:55053/api/pets", function(data){
       $('.petInfo').append(data);
-    })
-  })
-};
+    });
+  });
+}

@@ -13330,11 +13330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Empower\\Day 22\\PetsDatabase\\PetsApp\\PetsApp.csproj",
+      "projectUniqueName": "C:\\Projects\\Empower\\Day 22\\PetsDatabaseProject\\PetsDatabase\\PetsApp\\PetsApp.csproj",
       "projectName": "PetsApp",
-      "projectPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabase\\PetsApp\\PetsApp.csproj",
+      "projectPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabaseProject\\PetsDatabase\\PetsApp\\PetsApp.csproj",
       "packagesPath": "C:\\Users\\mswil\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabase\\PetsApp\\obj\\",
+      "outputPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabaseProject\\PetsDatabase\\PetsApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13353,8 +13353,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projects\\Empower\\Day 22\\PetsDatabase\\PetsDatabase\\PetsDatabase.csproj": {
-              "projectPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabase\\PetsDatabase\\PetsDatabase.csproj"
+            "C:\\Projects\\Empower\\Day 22\\PetsDatabaseProject\\PetsDatabase\\PetsDatabase\\PetsDatabase.csproj": {
+              "projectPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabaseProject\\PetsDatabase\\PetsDatabase\\PetsDatabase.csproj"
             }
           }
         }

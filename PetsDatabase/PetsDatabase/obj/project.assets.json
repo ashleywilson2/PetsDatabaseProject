@@ -1218,11 +1218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Empower\\Day 22\\PetsDatabase\\PetsDatabase\\PetsDatabase.csproj",
+      "projectUniqueName": "C:\\Projects\\Empower\\Day 22\\PetsDatabaseProject\\PetsDatabase\\PetsDatabase\\PetsDatabase.csproj",
       "projectName": "PetsDatabase",
-      "projectPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabase\\PetsDatabase\\PetsDatabase.csproj",
+      "projectPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabaseProject\\PetsDatabase\\PetsDatabase\\PetsDatabase.csproj",
       "packagesPath": "C:\\Users\\mswil\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabase\\PetsDatabase\\obj\\",
+      "outputPath": "C:\\Projects\\Empower\\Day 22\\PetsDatabaseProject\\PetsDatabase\\PetsDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
